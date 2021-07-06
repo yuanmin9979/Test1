@@ -1,25 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "H:\\接口\\09Game.Test\\09Game.UserService\\09Game.UserService.csproj": {}
+    "F:\\测试\\git_test\\Test1\\09Game.UserService\\09Game.UserService.csproj": {}
   },
   "projects": {
-    "H:\\接口\\09Game.Test\\09Game.UserService\\09Game.UserService.csproj": {
+    "F:\\测试\\git_test\\Test1\\09Game.UserService\\09Game.UserService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "H:\\接口\\09Game.Test\\09Game.UserService\\09Game.UserService.csproj",
+        "projectUniqueName": "F:\\测试\\git_test\\Test1\\09Game.UserService\\09Game.UserService.csproj",
         "projectName": "09Game.UserService",
-        "projectPath": "H:\\接口\\09Game.Test\\09Game.UserService\\09Game.UserService.csproj",
+        "projectPath": "F:\\测试\\git_test\\Test1\\09Game.UserService\\09Game.UserService.csproj",
         "packagesPath": "C:\\Users\\tangning\\.nuget\\packages\\",
-        "outputPath": "H:\\接口\\09Game.Test\\09Game.UserService\\obj\\",
+        "outputPath": "F:\\测试\\git_test\\Test1\\09Game.UserService\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
           "C:\\Users\\tangning\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -27,11 +25,11 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {},
+          "https://fangqq.pkgs.visualstudio.com/_packaging/myfangqq/nuget/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
-            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -43,7 +41,6 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
-          "targetAlias": "netcoreapp3.1",
           "dependencies": {
             "HttpReports": {
               "target": "Package",
@@ -72,7 +69,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.204\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.200\\RuntimeIdentifierGraph.json"
         }
       }
     }
