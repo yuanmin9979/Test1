@@ -22,5 +22,9 @@ namespace _09Game.UserService.Controllers
         {
             return Json("111");
         }
+        public IActionResult Indexs()
+        {
+            return Json("测试测试第二次");
+        }
     }
 }
